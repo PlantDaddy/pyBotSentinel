@@ -1,0 +1,7 @@
+dist/
+build/
+pybotsentinel_PlantDaddy.egg-info/
+test.py
+.gitignore
+.idea/
+__pycache__/
