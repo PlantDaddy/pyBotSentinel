@@ -1,4 +1,4 @@
-# Py3BotSentinel
+# PyBotSentinel
 
 PyBotSentinel is an API wrapper for [BotSentinel](https://botsentinel.com). It's simple in functionality as at this point,
 it only provides you a rating, and the description of what that rating means to
@@ -13,7 +13,7 @@ requests, ScraPy
 I recommend you install this via pip3 ([PyPi](https://pip.pypa.io/en/stable/installing/))
 
 ```bash
-$ pip3 install py3botsentinel
+$ pip3 install pybotsentinel
 ```
 
 ### Getting Started and Finished
