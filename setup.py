@@ -21,7 +21,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pybotsentinel-PlantDaddy",
+    name="pybotsentinel",
     version="0.0.1",
     author="Plant Daddy",
     author_email="CqP5TZ77NYBf5uQt@protonmail.com",
