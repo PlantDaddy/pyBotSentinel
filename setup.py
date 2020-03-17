@@ -22,7 +22,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pybotsentinel",
-    version="0.0.1",
+    version="0.0.2",
     author="Plant Daddy",
     author_email="CqP5TZ77NYBf5uQt@protonmail.com",
     description="A package to programmatically query a twitter user on BotSentinel",
@@ -36,5 +36,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    install_requires=['requests', 'scrapy', 'time', 're'],
+    install_requires=['requests', 'scrapy'],
 )
